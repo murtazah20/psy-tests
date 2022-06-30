@@ -1,0 +1,19 @@
+.ActiveQuestionnaire {
+    padding: 20px;
+    color: #fff;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    margin: 0 10px;
+    box-sizing: border-box;
+    font-size: 28px;
+    text-align: left;
+}
+
+.Question {
+    display: flex;
+    justify-content: space-between;
+}
+
+.small {
+    min-width: 65px;
+}
